@@ -1,0 +1,10 @@
+c:\users\alucard\source\repos\CryptLab3\CryptLab3\bin\Debug\CryptLab3.exe.config
+c:\users\alucard\source\repos\CryptLab3\CryptLab3\bin\Debug\CryptLab3.exe
+c:\users\alucard\source\repos\CryptLab3\CryptLab3\bin\Debug\CryptLab3.pdb
+c:\users\alucard\source\repos\CryptLab3\CryptLab3\obj\Debug\CryptLab3.Form1.resources
+c:\users\alucard\source\repos\CryptLab3\CryptLab3\obj\Debug\CryptLab3.Properties.Resources.resources
+c:\users\alucard\source\repos\CryptLab3\CryptLab3\obj\Debug\CryptLab3.csproj.GenerateResource.cache
+c:\users\alucard\source\repos\CryptLab3\CryptLab3\obj\Debug\CryptLab3.csproj.CoreCompileInputs.cache
+c:\users\alucard\source\repos\CryptLab3\CryptLab3\obj\Debug\CryptLab3.exe
+c:\users\alucard\source\repos\CryptLab3\CryptLab3\obj\Debug\CryptLab3.pdb
+C:\Users\Alucard\source\repos\CryptLab3\CryptLab3\obj\Debug\CryptLab3.csprojResolveAssemblyReference.cache
